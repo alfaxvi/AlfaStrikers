@@ -28,23 +28,7 @@ I'm a car guy 🚙, I'm quite passionate about this world.
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
-![MasterCard](https://img.shields.io/static/v1?style=for-the-badge&message=MasterCard&color=EB001B&logo=MasterCard&logoColor=FFFFFF&label=)
-![Visa](https://img.shields.io/static/v1?style=for-the-badge&message=Visa&color=1A1F71&logo=Visa&logoColor=FFFFFF&label=)
-![Binance](https://img.shields.io/static/v1?style=for-the-badge&message=Binance&color=222222&logo=Binance&logoColor=F0B90B&label=)
-![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=00457C&logo=PayPal&logoColor=FFFFFF&label=)
-![Apple Pay](https://img.shields.io/static/v1?style=for-the-badge&message=Apple+Pay&color=000000&logo=Apple+Pay&logoColor=FFFFFF&label=)
 ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
 
 
-### 🚗 My favourite car brand:
-![Toyota](https://img.shields.io/static/v1?style=for-the-badge&message=Toyota&color=EB0A1E&logo=Toyota&logoColor=FFFFFF&label=)
-![Subaru](https://img.shields.io/static/v1?style=for-the-badge&message=Subaru&color=013C74&logo=Subaru&logoColor=FFFFFF&label=)
-![Nissan](https://img.shields.io/static/v1?style=for-the-badge&message=Nissan&color=C3002F&logo=Nissan&logoColor=FFFFFF&label=)
-![Mitsubishi](https://img.shields.io/static/v1?style=for-the-badge&message=Mitsubishi&color=E60012&logo=Mitsubishi&logoColor=FFFFFF&label=)
-![Mazda](https://img.shields.io/static/v1?style=for-the-badge&message=Mazda&color=101010&logo=Mazda&logoColor=FFFFFF&label=)
-![Honda](https://img.shields.io/static/v1?style=for-the-badge&message=Honda&color=E40521&logo=Honda&logoColor=FFFFFF&label=)
 
-
-### 🏍 My favourite motorbikes brand:
-![KTM](https://img.shields.io/static/v1?style=for-the-badge&message=KTM&color=FF6600&logo=KTM&logoColor=FFFFFF&label=)
-![Husqvarna](https://img.shields.io/static/v1?style=for-the-badge&message=Husqvarna&color=273A60&logo=Husqvarna&logoColor=FFFFFF&label=)
