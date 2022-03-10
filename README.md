@@ -1,4 +1,4 @@
-# Hi there👋, I'm [Alfa](https://github.com/AlfaStrikers)🛹
+# Hi there👋, I'm [Alfa](https://github.com/AlfaStrikers)🎲
 
 I'm a student👨‍🎓 from Italy  (Sicily), I'm 16, now i am studying📖 different programming languages 🗯(C++, Java)☕.
 <br>
