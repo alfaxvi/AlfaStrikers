@@ -31,7 +31,6 @@ I'm a car guy 🚙, I'm quite passionate about this world.
 ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
 
 ### 🎵 My spotify:
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=friuli.antonio&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=friuli.antonio&cover_image=true&theme=compact)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=friuli.antonio&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 
