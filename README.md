@@ -42,9 +42,9 @@ CPU: [Ryzen 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600)
 
 MOBO: [MSI B450 GPM](https://www.msi.com/Motherboard/B450-GAMING-PLUS-MAX)
 
-VGA: [RTX 1650 Super](https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1650-super/#shop-all)
+VGA: [GTX 1650 Super](https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1650-super/#shop-all)
 
-RAM: Kingston HyperX Fury 16GB
+RAM: [Kingston HyperX Fury 16GB](https://www.amazon.it/HyperX-Predator-HX432C16PB3A-16-Memoria/dp/B07MVXSG3T)
 
 PSU: [Corsair VS650](https://www.corsair.com/it/en/Categories/Products/Power-Supply-Units/vs-series-config-2018/p/CP-9020172-EU)
 
