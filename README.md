@@ -8,6 +8,7 @@ And I play a lot of games 🎮
 
 
 
+
 ## 🚧 My current projects:
 - CFW for Technicolor TG789VAC V2 (VANT 6)
 
@@ -26,6 +27,32 @@ And I play a lot of games 🎮
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
 ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+
+</details>
+
+<details>
+<summary> 
+My Setup 🖥️
+</summary>
+<br>
+
+My Laptop: [MacBook Air 13](https://support.apple.com/kb/SP753?viewlocale=en_US&locale=it_IT)
+
+CPU: [Ryzen 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600)
+
+MOBO: [MSI B450 GPM](https://www.msi.com/Motherboard/B450-GAMING-PLUS-MAX)
+
+VGA: [RTX 1650 Super](https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1650-super/#shop-all)
+
+RAM: Kingston HyperX Fury 16GB
+
+PSU: [Corsair VS650](https://www.corsair.com/it/en/Categories/Products/Power-Supply-Units/vs-series-config-2018/p/CP-9020172-EU)
+
+SSD: [XPG Gammix 256GB](https://www.amazon.com/XPG-GAMMIX-256GB-Gen3x4-AGAMMIXS11P-256GT-C/dp/B07KZ4TFRS/ref=sr_1_1?crid=12B79HQ7XXJB0&keywords=XPG+Gammix+256GB&qid=1647042203&sprefix=xpg+gammix+256gb%2Caps%2C155&sr=8-1)
+
+CASE: [Cooler Master Masterbox 511 RGB](https://www.coolermaster.com/catalog/legacy-products/cases/masterbox-mb511-rgb/)
+ 
+</details>
 
 # 🏆 GitHub Info
 [![Alfa GitHub stats](https://github-readme-stats.vercel.app/api?username=alfastrikers)](https://github.com/anuraghazra/github-readme-stats)
