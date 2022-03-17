@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hi there, I'm Alfa </h3>
+<h3 align="center"> Hi there, I'm Alfa 👋 </h3>
 
 
 ## I'm a student👨‍🎓 from Italy <br>
