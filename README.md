@@ -1,17 +1,16 @@
 
-<h3 align="center"> Hi there, I'm Alfa 👋 </h3>
+<h3 align="center"> Wassup man, i'm Alfa 🤙 </h3>
 
-
-## I'm a student👨‍🎓 from Italy <br>
-I'm studying📖 different programming languages 🗯(C++, Java)☕. <br>
-And I play a lot of games 🎮
+<h1 align="center"> I'm a student based in Italy 🍕 </h3>
+I enjoy creating small projects, and I listen a lot of music (I also study finance and trading)
 
 
 
 
-## 🚧 My current projects:
+### 🚧 My current projects:
 - Aronky789vac v2 (Custom GUI for AronkyDevelopment Team based on [Ansuel](https://github.com/Ansuel) GUI
 - Terminator V5 (Modded router Technicolor DGA4132 also know in italy as "Tim HUB")
+- My personal VR (I'm using a Kinect from the old Xbox 360 to track my body, a VR Box for smartphones, my old iPhone 6S, a PlayStation Move and a PlayStation Eye)
 
 
 
