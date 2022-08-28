@@ -26,7 +26,7 @@ I enjoy creating small projects, and I listen a lot of music (I also study finan
 ![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 ![OpenWrt](https://img.shields.io/static/v1?style=for-the-badge&message=OpenWrt&color=222222&logo=OpenWrt&logoColor=00B5E2&label=)
-![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
+
 
 </details>
 
