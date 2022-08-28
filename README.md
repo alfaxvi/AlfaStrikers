@@ -10,7 +10,7 @@ I enjoy creating small projects, and I listen a lot of music (I also study finan
 ### 🚧 My current projects:
 - Aronky789vac v2 (Custom GUI for AronkyDevelopment Team based on [Ansuel](https://github.com/Ansuel) GUI
 - Terminator V5 (Modded router Technicolor DGA4132 also know in italy as "Tim HUB")
-- My personal VR (I'm using a Kinect from the old Xbox 360 to track my body, a VR Box for smartphones, my old iPhone 6S, a PlayStation Move and a PlayStation Eye)
+
 
 
 
