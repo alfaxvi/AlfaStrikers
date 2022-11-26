@@ -54,8 +54,5 @@ CASE: [Cooler Master Masterbox 511 RGB](https://www.coolermaster.com/catalog/leg
  
 </details>
 
-# 🏆 GitHub Info
-[![Alfa GitHub stats](https://github-readme-stats.vercel.app/api?username=alfastrikers)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
