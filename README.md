@@ -8,7 +8,7 @@ I enjoy creating small projects, and I listen a lot of music (I also study finan
 
 
 ### 🚧 My current projects:
-- Aronky789vac v2 (Custom GUI for AronkyDevelopment Team based on [Ansuel](https://github.com/Ansuel) GUI
+- Aronky789vac v2 (Custom GUI for AronkyDevelopment Team based on [Ansuel](https://github.com/Ansuel) GUI)
 - Terminator V5 (Modded router Technicolor DGA4132 also know in italy as "Tim HUB")
 
 
