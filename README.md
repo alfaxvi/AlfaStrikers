@@ -3,7 +3,7 @@
 I'm Antonio and I create small projects for me and for my school.🎒 <br>
 
 - 📒 I'm a student based in Italy
-- 👨‍💻 I'm learning Java
+- 👨‍💻 I'm learning Java and Python
 - 🤖 I'm currently working on a project for the [NAO Challenge 2023](https://www.naochallenge.it/)
 - 🌐 I really appreciate the Networking and Routing
 - 📶 I currently have the Cisco IT Essential (ITE) certification, and I am studying for the Cisco CCNA (R&S) certification
